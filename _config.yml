@@ -3,8 +3,8 @@ title: The Portfolio
 subtitle: by RealToughCandy
 email: youremailaddress@gmail.com
 description: A RealToughCandy production. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
+url: "https://realtoughcandy.github.io/" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
