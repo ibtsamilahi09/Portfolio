@@ -1,0 +1,33 @@
+# site settings
+title: The Portfolio
+subtitle: by RealToughCandy
+email: youremailaddress@gmail.com
+description: A RealToughCandy production. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/RealToughCandy
+pinterest_url:
+slack_url: https://www.RealToughCandy.slack.com
+youtube_url: https://www.youtube.com/RealToughCandy
+twitter_url: https://twitter.com/RealToughCandy
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
