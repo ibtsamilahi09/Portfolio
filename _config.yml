@@ -1,17 +1,17 @@
 # site settings
 title: The Portfolio
 subtitle: by RealToughCandy
-email: youremailaddress@gmail.com
-description: A RealToughCandy production. 
-baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
-url: "https://realtoughcandy.github.io/" # the base hostname & protocol for your site
+email: realtoughcandy@gmail.com
+description: True fullstack dev 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 12 Spacedust Lane
+city: Jupiteria
+state: Mars
+zip_code: 90210
+country: Milky Way Galaxy
+phone: (555) Hire-Candy
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

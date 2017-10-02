@@ -1,22 +1,19 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
-image: assets/images/pic05.jpg
+title: YouTube
+description: Tech communication/code instruction/community building
+image: assets/images/youtube.png
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+## No problem statement here; no solution or outcome paragraph. [`Youtube.com/realtoughcandy`](https://youtube.com/realtoughcandy) is the channel that started it all: my supercharged passion for web development, deep educational tributary networks, and the gathering of fellow developers who resonate with the idea that web development should be experimental, bold, and accessible. ##
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+Web development in the social sphere is just like musical composition: the notes you leave out are just as integral as the ones you leave in. I don't produce diatribe videos. I leave my personal life, personal. And I sure as hell don't waste time talking about politics when it doesn't apply to tech, or inanely retweet the latest space-wasting-cyberfluff. 
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+### RealToughCandy is a true tech alternative, embracing the old-school while pushing forward to the new-school, while natively developing the rest. ###
+
+Numerous tributary networks have sprouted from this channel, including a Gitter chatroom, blog and dev newsletter (as highlighted in this portfolio), mentorships, and countless 'offline' communications that have created massive value for the dev community. 
+
+
+
+# Explore [`RealToughCandy on YouTube`](https://youtube.com/realtoughcandy) #
+
