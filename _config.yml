@@ -4,7 +4,7 @@ subtitle: by RealToughCandy
 email: realtoughcandy@gmail.com
 description: True fullstack dev 
 #baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
-url: "https://realtoughcandy.github.io/Portfolio/" # the base hostname & protocol for your site
+url: "https://realtoughcandy.github.io/" # the base hostname & protocol for your site
 author: RTC
 street_address: 12 Spacedust Lane
 city: Jupiteria
