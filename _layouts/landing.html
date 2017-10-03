@@ -31,7 +31,9 @@
         </section>
 
     {{ content }}
-
+{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
     {% include footer.html %}
 
 </body>
