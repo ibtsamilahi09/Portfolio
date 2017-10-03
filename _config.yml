@@ -3,9 +3,9 @@ title: The Portfolio
 subtitle: by RealToughCandy
 email: realtoughcandy@gmail.com
 description: True fullstack dev 
-baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
+#baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
 url: "https://realtoughcandy.github.io/Portfolio/" # the base hostname & protocol for your site
-author:
+author: RTC
 street_address: 12 Spacedust Lane
 city: Jupiteria
 state: Mars
