@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PhatPhinger 
-description: A touchscreen testing tool 
+description: A touchscreen testing tool written in jQuery
 image: assets/images/fatfinger.png
 permalink: /PhatPhinger
 ---
