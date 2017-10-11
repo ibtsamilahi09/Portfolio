@@ -7,7 +7,7 @@ permalink: /Dev_Spotlight
 ---
 
 # Challenge: 'We have a tech talent shortage' is a common cry among the media, the government, the private sector, and often,  the tech sector itself. I wanted to create a site highlighting up-and-coming devs who are living, working proof that this is a false narrative. #
-![The Dev Spotlight Frontpage]({{ site.url | absolute_path}}/Portfolio/assets/images/devfront.png) 
+![The Dev Spotlight Frontpage]({{ site.url | absolute_path}}/Portfolio/assets/images/casfront.png) 
 
 _The Dev Spotlight Series highlights the next generation of talented, dedicated tech developers._
 
