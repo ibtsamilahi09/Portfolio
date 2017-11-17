@@ -6,7 +6,7 @@ image: assets/images/youtube.png
 permalink: /Youtube
 ---
 
-## No problem statement here; no solution or outcome paragraph. [`Youtube.com/realtoughcandy`](https://youtube.com/realtoughcandy) is the channel that started it all: my supercharged passion for web development, deep educational tributary networks, and the gathering of fellow developers who resonate with the idea that web development should be experimental, bold, and accessible. ##
+[`Youtube.com/realtoughcandy`](https://youtube.com/realtoughcandy) is the channel that started it all: my supercharged passion for web development, deep educational tributary networks, and the gathering of fellow developers who resonate with the idea that web development should be experimental, bold, and accessible. ##
 
 ### RealToughCandy is a true tech alternative, embracing the old-school while pushing forward to the new-school, while natively developing the rest. ###
 
