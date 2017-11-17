@@ -17,7 +17,7 @@ Skeleton CSS on each dev profile ensures 100% responsive design. I also incorpor
 
 
 ![Dev Spotlight Header]({{ site.url | absolute_path}}/Portfolio/assets/images/jimname.png)
-_Oversized names as each profile's header section create a sharp, exclusive magazine feel._
+
 
 #### Outcome: The Dev Spotlight Series is an avant garde take on design, with progressive enhancement for maximum UX/UI. These developers now have a home that is hip, interactive, and 100% responsive.  ####
 
