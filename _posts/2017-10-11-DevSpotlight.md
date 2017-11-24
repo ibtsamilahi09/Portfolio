@@ -16,9 +16,6 @@ _The Dev Spotlight Series highlights the next generation of talented, dedicated 
 Skeleton CSS on each dev profile ensures 100% responsive design. I also incorporated colors to reduce eye strain, such as _aliceblue_ instead of white, and a medium gray to replace black text. Finally, I optimized the landing page for mobile users by removing the terminal. 
 
 
-![Dev Spotlight Header]({{ site.url | absolute_path}}/Portfolio/assets/images/jimname.png)
-
-
 #### Outcome: The Dev Spotlight Series is an avant garde take on design, with progressive enhancement for maximum UX/UI. These developers now have a home that is hip, interactive, and 100% responsive.  ####
 
 # Explore [`The Dev Spotlight`](https://realtoughcandy.github.io/DevSpotlight/) #
