@@ -6,11 +6,11 @@ image: assets/images/youtube.png
 permalink: /Youtube
 ---
 
-[`Youtube.com/realtoughcandy`](https://youtube.com/realtoughcandy) is the channel that started it all: my supercharged passion for web development, deep educational tributary networks, and the gathering of fellow developers who resonate with the idea that web development should be experimental, bold, and accessible. ##
+[`Youtube.com/realtoughcandy`](https://youtube.com/realtoughcandy) is the channel that started it all: my supercharged passion for web development, tech social networks, and the gathering of fellow developers who resonate with the idea that web development should be experimental, bold, and accessible. 
 
-### RealToughCandy is a true tech alternative, embracing the old-school while pushing forward to the new-school, while natively developing the rest. ###
+### RealToughCandy is a tech alternative, highlighting how the Internet works and why it matters. ###
 
-Numerous tributary networks have sprouted from this channel, including a Gitter chatroom, blog and dev newsletter (as highlighted in this portfolio), mentorships, and countless 'offline' communications that have created massive value for the dev community. 
+Tributary networks continute to sprout from this channel, including a Gitter chatroom for tech talk, blog, newsletter, mentorships, and countless 'offline' communications that have created massive value for the dev community. 
 
 
 
