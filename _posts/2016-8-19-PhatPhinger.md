@@ -6,12 +6,12 @@ image: assets/images/fatfinger.png
 permalink: /PhatPhinger
 ---
 
-# Challenge: End users who have large fingers to interact with the web are a challenge for developers, UX/UI folks, and web designers. #
+# Challenge: Mobile app users who have large fingers are a challenge for developers, UX/UI specialists, and web designers. Elements that are spaced appropriately for 'normal' users are too close together and often unusable for this audience.  #
 
 
-### Solution: PhatPhinger turns a developer's cursor into a lifesize, yet oversized finger to help better develop components. Test your links, images, and other touchables. . .Do they accommodate fat fingers, or are they too close to each other? Use this simple app to find out. ###
+### Solution: PhatPhinger turns a tester's cursor into a lifesize oversized finger to help develop app elements more inclusively. Team members can test links, images, and other touchables. . .Do they accommodate larger fingers, or are the elements too close to each other? This simple app answers that question with a quick, real-time visual answer. ###
 
 
-#### Outcome: With a few lines of jQuery, the cursor is now a 'fat' fingerprint. I'm currently accepting pull requests to improve this project (heat mapped fingers, handprints, palms, etc.)  ####
+#### Outcome: With a few lines of jQuery, the cursor is now a larger-than-average fingerprint. PhatPhinger could be potential tool employed during the application testing phase, resulting in increased testing efficiency while remaining accessibility-minded. Currently accepting pull requests to enhance feature set (heat mapped fingers, handprints, palms, etc.).  ####
 
 # Explore [`PhatPhinger`](https://realtoughcandy.github.io/PhatPhinger/) #
