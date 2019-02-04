@@ -3,8 +3,7 @@ I welcome all input, from sharing your own implementations of code to general th
 
 ## Feature Requests
 
-Feature requests are always welcome! If Jekyll can do it and if the theme's design would work well with it, then I would love to add it. Of course, 
-code submission via a merge/pull request is great, but not necessary.
+Feature requests are always welcome! If Jekyll can do it and if the theme's design would work well with it, then I would love to add it. Of course, code submission via a merge/pull request is great, but not necessary.
 
 ## Bug Reports
 
